@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string= Test Kernel by OldCatz
+kernel.string= Kyojuro Kernel by OldCatz
 do.devicecheck=1
 do.modules=0
 do.systemless=1
