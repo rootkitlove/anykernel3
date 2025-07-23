@@ -4,17 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string= Kyojuro Kernel by OldCatz
+kernel.string=Kernel by Fezco
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=topaz
-device.name2=tapas
-device.name3=xun
-device.name4=sapphire
-device.name5=sapphiren
+device.name1=duchamp
 supported.versions=13 - 15
 '; } # end properties
 
