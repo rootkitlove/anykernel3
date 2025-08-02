@@ -1,7 +1,7 @@
 set your heart ablaze!
 ================================
-KERNEL NAME     : FezcoTest
-KERNEL VERSION  : 6.1 [GOOGLE]
-ROOT METHOD     : NONROOT [KPM-ON]
-DEVELOPER       : Fezco [Felipe]
+KERNEL NAME     : MinimalKernel
+KERNEL VERSION  : 5.15 [GOOGLE+LINARO]
+ROOT METHOD     : KSU-NEXT [KPM-OFF]
+DEVELOPER       : Sky [@TapasUser]
 ==================================
