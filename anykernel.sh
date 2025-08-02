@@ -4,14 +4,18 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Kernel by Fezco
+kernel.string=Kernel by TapasUser
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=duchamp
-supported.versions=13 - 15
+device.name1=topaz
+device.name2=tapas
+device.name3=sapphiren
+device.name4=sapphire
+device.name5=xun
+supported.versions=13 - 16
 '; } # end properties
 
 # shell variables
@@ -49,4 +53,4 @@ flash_boot;
 
 sleep 3
 ui_print ""
-ui_print "kernel installed successfully"
+ui_print "Bengal Kernel installed successfully"
